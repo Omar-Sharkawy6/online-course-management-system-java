@@ -29,6 +29,7 @@ src/
 nbproject/
 courses.json
 users.json
+```
 
 ## Dependencies
 This project uses external Java libraries:
