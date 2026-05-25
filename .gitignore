@@ -1,0 +1,8 @@
+/build/
+/dist/
+*.class
+*.log
+*.zip
+certificate_*.pdf
+certificate_*.json
+.nb-gradle/
